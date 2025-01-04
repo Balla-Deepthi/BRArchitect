@@ -1,0 +1,88 @@
+body,html
+{
+    margin: 0px;
+    padding: 0px;
+}
+.img1
+{
+    width:23vw;
+    
+    margin: 10px;
+    
+}
+.sec1
+{
+    position: relative;
+   
+    margin: 0px;
+    padding: 0px;
+    left: 30px;
+}
+
+.p1
+{
+    position:absolute;
+    top: -6px;
+    left: 10px;
+    background-color: black;
+    color: white;
+    height: 30px;
+    width: 150px;
+    text-align:center;
+   
+    align-content: center;
+
+
+}
+.div1
+{
+    position: relative;
+    display: inline-block;
+
+}
+.head
+{
+    position: relative;
+    display: inline-block;
+    left: 85vw;
+    right: 100vw;
+    text-decoration: none;
+}
+
+.righthead
+{
+    position: relative;
+    display: inline-block;
+
+
+
+}
+.head
+{
+    position: relative;
+    display: inline-block;
+    right:100px;
+    
+}
+header
+{width: 100%;
+    position: fixed;
+    top: 0px;
+    border: 20px;
+ font-size: large;
+    background-color: aliceblue;
+    padding: 20px;
+    text-decoration: none;
+   
+}
+span{
+    position: absolute;
+    right: 50px;
+    text-decoration: none;
+ 
+}
+h3
+{
+    position: relative;
+    left:50px;
+}
